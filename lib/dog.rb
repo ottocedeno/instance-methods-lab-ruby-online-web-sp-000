@@ -11,4 +11,8 @@ class Dog
 end
 
 class Person
+
+  def talk
+
+  end
 end
